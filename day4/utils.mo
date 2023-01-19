@@ -1,6 +1,5 @@
 import Buffer "mo:base/Buffer";
 import List "mo:base/List";
-import Error "mo:base/Error";
 import Prelude "mo:base/Prelude";
 
 module {

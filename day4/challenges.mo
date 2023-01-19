@@ -2,6 +2,7 @@ import Bool "mo:base/Bool";
 import Principal "mo:base/Principal";
 import Iter "mo:base/Iter";
 import HashMap "mo:base/HashMap";
+import Text "mo:base/Text";
 
 actor {
     // challenge 3
